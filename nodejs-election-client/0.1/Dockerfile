@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/nodejs-election-client:0.1

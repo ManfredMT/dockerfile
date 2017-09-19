@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/defaultbackend-s390x:1.3

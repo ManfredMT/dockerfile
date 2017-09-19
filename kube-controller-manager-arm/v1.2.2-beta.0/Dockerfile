@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/kube-controller-manager-arm:v1.2.2-beta.0

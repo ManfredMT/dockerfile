@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/mounttest-user:0.3

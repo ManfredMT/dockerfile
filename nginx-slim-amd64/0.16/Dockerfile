@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/nginx-slim-amd64:0.16

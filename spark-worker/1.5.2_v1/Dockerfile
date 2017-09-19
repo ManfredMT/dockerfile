@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/spark-worker:1.5.2_v1

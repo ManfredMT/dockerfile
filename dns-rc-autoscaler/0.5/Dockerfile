@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/dns-rc-autoscaler:0.5

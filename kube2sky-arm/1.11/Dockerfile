@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/kube2sky-arm:1.11

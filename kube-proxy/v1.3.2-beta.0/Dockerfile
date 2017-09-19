@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/kube-proxy:v1.3.2-beta.0

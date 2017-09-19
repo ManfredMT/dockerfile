@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/dnsmasq-metrics-arm:1.0

@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/logexporter:v0.1.0

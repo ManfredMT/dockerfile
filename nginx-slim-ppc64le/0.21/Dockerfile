@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/nginx-slim-ppc64le:0.21

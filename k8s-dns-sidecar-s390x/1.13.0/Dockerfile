@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/k8s-dns-sidecar-s390x:1.13.0

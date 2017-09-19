@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/publisher:2016-09-22-3bfbc14

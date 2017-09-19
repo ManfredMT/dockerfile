@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/hyperkube-arm:v1.9.0-alpha.0

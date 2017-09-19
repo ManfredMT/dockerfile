@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/exechealthz-arm:0.0

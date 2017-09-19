@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/custom-metrics-stackdriver-adapter:v1.0

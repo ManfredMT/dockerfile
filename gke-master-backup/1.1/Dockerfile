@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/gke-master-backup:1.1

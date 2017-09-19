@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/heapster-influxdb:3google_containers_heapster-influxdb-ppc64le

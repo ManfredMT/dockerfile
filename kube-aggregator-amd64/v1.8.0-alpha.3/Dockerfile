@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/kube-aggregator-amd64:v1.8.0-alpha.3

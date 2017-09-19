@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/kubelet-to-gcm:1.1

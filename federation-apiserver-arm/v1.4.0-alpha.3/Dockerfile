@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/federation-apiserver-arm:v1.4.0-alpha.3

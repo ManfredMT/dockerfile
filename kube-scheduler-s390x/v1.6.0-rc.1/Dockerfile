@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/kube-scheduler-s390x:v1.6.0-rc.1

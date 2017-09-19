@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/kube-proxy-s390x:v1.6.7-beta.0

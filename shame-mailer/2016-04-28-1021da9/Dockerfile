@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/shame-mailer:2016-04-28-1021da9

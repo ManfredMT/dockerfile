@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/device-plugin-gpu:9a7d6419b599b51bc5026894c4615b24a4ed1798

@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/prometheus-to-sd:v0.2.1

@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/debian-hyperkube-base-s390x:0.1

@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/k8s-dns-kube-dns-s390x:1.14.0

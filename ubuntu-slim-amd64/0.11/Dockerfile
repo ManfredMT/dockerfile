@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/ubuntu-slim-amd64:0.11

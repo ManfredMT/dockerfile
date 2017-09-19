@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/pause-s390x:3.0

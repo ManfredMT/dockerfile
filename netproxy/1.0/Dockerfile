@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/netproxy:1.0

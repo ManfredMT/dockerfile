@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/flannel-arm64:0.5.5

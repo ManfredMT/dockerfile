@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/nginx-third-party:0.4

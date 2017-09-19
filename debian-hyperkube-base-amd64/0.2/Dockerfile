@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/debian-hyperkube-base-amd64:0.2

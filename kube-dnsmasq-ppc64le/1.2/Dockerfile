@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/kube-dnsmasq-ppc64le:1.2

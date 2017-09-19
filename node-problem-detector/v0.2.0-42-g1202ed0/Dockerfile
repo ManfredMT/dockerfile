@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/node-problem-detector:v0.2.0-42-g1202ed0

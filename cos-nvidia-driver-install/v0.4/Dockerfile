@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/cos-nvidia-driver-install:v0.4

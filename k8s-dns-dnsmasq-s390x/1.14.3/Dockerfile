@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/k8s-dns-dnsmasq-s390x:1.14.3

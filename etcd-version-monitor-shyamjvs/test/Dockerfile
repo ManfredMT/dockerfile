@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/etcd-version-monitor-shyamjvs:test

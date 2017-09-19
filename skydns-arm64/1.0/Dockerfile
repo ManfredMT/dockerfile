@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/skydns-arm64:1.0

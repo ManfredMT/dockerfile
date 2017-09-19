@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/fluentd-gcp:2.0.5

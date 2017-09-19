@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/jessie-dnsutils:e2e

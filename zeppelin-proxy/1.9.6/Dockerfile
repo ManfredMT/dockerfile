@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/zeppelin-proxy:1.9.6

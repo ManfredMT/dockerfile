@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/volume-ceph:0.1

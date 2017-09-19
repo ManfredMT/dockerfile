@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/proxy-to-service:v2

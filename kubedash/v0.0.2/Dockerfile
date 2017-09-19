@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/kubedash:v0.0.2

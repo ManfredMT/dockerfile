@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/kube-addon-manager-arm:v5

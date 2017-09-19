@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/hostexec:1.2

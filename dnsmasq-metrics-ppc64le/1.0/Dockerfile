@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/dnsmasq-metrics-ppc64le:1.0

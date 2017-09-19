@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/submit-queue:2017-01-25-7dbd285e

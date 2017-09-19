@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/kubekins-e2e:v20160925-91ff893-dirty

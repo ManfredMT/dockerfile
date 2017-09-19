@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/ubuntu:14.04

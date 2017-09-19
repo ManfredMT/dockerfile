@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/kube-apiserver-s390x:v1.8.0-beta.1
